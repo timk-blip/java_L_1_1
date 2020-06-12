@@ -11,18 +11,27 @@
 На тестирование затрачено: <1,5 часа>
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [Валидация ключей, статус FAIL](https://github.com/timk-blip/java_L_1_1/issues/2)
+* [Валидация ключей, статус ОК](https://github.com/timk-blip/java_L_1_1/issues/1)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-1. <OS Windows 10 pro> для первой задачи
-1. <OpenJDK11>         для второй задачи
-1. <GIT Bush>          для третей задачи
+1. OS Windows 10 pro - для первой задачи
+1. OpenJDK11         - для второй задачи
+1. GIT Bush          - для третей задачи
 
-В качестве тестовых данных использовались данные <[Отчет о тестировании "KeyValidator"](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)>:
+В качестве тестовых данных использовались данные: 
+
+#### [Для задачи 1 - инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+
+успешная установка OpenJDK11
+
+#### [Для задачи 2 и 3 - отчет о тестировании "KeyValidator"](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+
+* Задача 2 - Совместимость приложения с JAVA 11
+* Задача 3:
 
 Валидные ключи:
 
@@ -44,4 +53,4 @@
 * <Windows 10 pro, x64>
 * <JAVA 11>
 
-## Прошу узакать замечания в оформлении отчета
+## Прошу дать рекомендации в оформлении отчета
